@@ -57,6 +57,7 @@ const benifit = () => {
             </div>
         </div>
     )
+    
 }
 
 export default benifit
